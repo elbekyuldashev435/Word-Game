@@ -1,3 +1,4 @@
 units/
 verbs/
-human_body.py/
+human_body.py
+.idea/
